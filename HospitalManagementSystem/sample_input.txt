@@ -1,0 +1,85 @@
+admin123
+1
+101
+John Smith
+34
+Male
+9876543210
+O+
+Fever
+12 Main St
+1
+102
+Alice Brown
+28
+Female
+8123456780
+A+
+Migraine
+45 Park Ave
+2
+3
+1
+101
+4
+102
+29
+7123456781
+A+
+Migraine (chronic)
+45 Park Avenue
+6
+501
+Sarah Lee
+45
+Female
+9988776655
+Cardiology
+15
+800
+6
+502
+Raj Malhotra
+50
+Male
+9871234560
+Orthopedics
+20
+1000
+7
+8
+2
+Sarah
+9
+101
+Sarah
+25-12-2026
+10:30 AM
+10
+11
+APT001
+12
+901
+Mike Johnson
+1
+12
+902
+Nina Verma
+3
+13
+14
+102
+15
+16
+17
+101
+501
+250
+0
+500
+
+18
+19
+5
+102
+20
